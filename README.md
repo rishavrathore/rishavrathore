@@ -10,7 +10,6 @@
 - 📫 You can reach me at **rishavrathore754@gmail.com**
 
 <h3 align="left">Connect with me: 
-Twitter : https://twitter.com/Im_rishavsingh?t=8SK0Bhs3UI-Pedld_uta2w&s=08 
 LinkedIn : https://www.linkedin.com/in/rishavrathore22/ </h3>
 <p align="left">
 <a href="https://instagram.com/rish.av.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rish.av.1" height="30" width="40" /></a>
