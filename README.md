@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hii 👋, I'm Rishav</h1>
+<h3 align="center">A passionate Full stack web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavrathore" alt="rishavrathore" /></a> </p>
 
@@ -9,7 +9,9 @@
 
 - 📫 You can reach me at **rishavrathore754@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+Twitter : https://twitter.com/Im_rishavsingh?t=8SK0Bhs3UI-Pedld_uta2w&s=08 
+LinkedIn : https://www.linkedin.com/in/rishavrathore22/ </h3>
 <p align="left">
 <a href="https://instagram.com/rish.av.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rish.av.1" height="30" width="40" /></a>
 <a href="https://medium.com/@rishavsingh_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishavsingh_1" height="30" width="40" /></a>
